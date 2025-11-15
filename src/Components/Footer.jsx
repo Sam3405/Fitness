@@ -45,7 +45,7 @@ function Footer() {
                 {/* Copyright Section */}
                 <div className="text-center mt-4 border-top pt-3">
                     <p>Copyright &copy;2025 All rights reserved | This Website is made by 
-                        <span className="text-danger"> Suhail and Sourabh</span>
+                        <span className="text-danger"> Sam</span>
                     </p>
                 </div>
             </div>
